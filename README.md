@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renyi2517
+- 👋 Hi, I’m @renyi2517, I'm living in WuHan, China
 - 👀 I’m interested in bioinformation
 - 🌱 I’m currently learning Python, Perl, C++
 - 💞️ I’m looking to collaborate on Bioinformation project
